@@ -1,6 +1,12 @@
-# flutter_application_minhas_acoes
+# Aplicativo mobile de Minhas Ações
 
 A new Flutter project.
+
+# Objetivo da Aplicação
+
+Ao digitar o nome de uma Ação, será retornado o preço da respectiva ação na bolsa de valores.
+
+Foi utilizado a API [Finance da HG Brasil](https://hgbrasil.com/status/finance).
 
 ## Getting Started
 
